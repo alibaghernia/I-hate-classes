@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alibaghernia/I-hate-classes/issues"
   },
-  "homepage": "https://github.com/alibaghernia/I-hate-classes#readme"
+  "homepage": "https://github.com/alibaghernia/I-hate-classes#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
 }
