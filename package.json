@@ -1,0 +1,19 @@
+{
+  "name": "i-hate-classes",
+  "version": "1.0.0",
+  "description": "حاضر شدن سر کلاسا ب خودی خود چیزی بیخودی هست حالا استادا هم هی ساعت کلاسو تغییر میدن و مجبوری هی سمیادو چک کنی ببینی کلاس داری یا نه دارم سعی میکنم برنامه ای بنویسم که خودش چک کنه کلاس دارم یا ن اگه کلاس بود خبرم کنه",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alibaghernia/I-hate-classes.git"
+  },
+  "author": "alibaghernia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alibaghernia/I-hate-classes/issues"
+  },
+  "homepage": "https://github.com/alibaghernia/I-hate-classes#readme"
+}
